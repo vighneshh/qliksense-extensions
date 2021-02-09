@@ -1,0 +1,27 @@
+.qv-object-lineChartdim div.qv-object-content-container {
+	overflow: auto;
+}
+.qv-object-lineChartdim td,
+.qv-object-lineChartdim th {
+	border-top: 0px solid #fff;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle;
+	cursor: default;
+	font-size: 12px;
+}
+.qv-object-lineChartdim td.numeric {
+	text-align: right;
+}
+.qv-object-lineChartdim button {
+	width: 100%;
+}
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
