@@ -1,0 +1,43 @@
+/* CSS */
+.container {
+    border: 1px solid gray;
+	font-family: sans-serif;
+}
+.container .title{
+	color: #0a4778;
+    background: #d2d2d2;
+    padding: 3px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.container .value, .container .value2, .container .value3{
+	color: #000;
+    background: #fff;
+    padding: 10px;
+    text-align: center;
+	font-size: 25px;
+}
+
+.container .value .calc, .container .value2 .calc, .container .value3 .calc{
+	color: #000;
+	margin-right: 5px;
+}
+
+.container .value .unit, .container .value2 .unit, .container .value3 .unit{
+	color: #d2d2d2;
+	font-size: 20px;
+}
+
+.container .value2 .Title2, .container .value3 .Title3 {
+    font-size: 15px;
+    color: #6d6d6d;
+}
+
+
+.container .valueCont{
+	display:flex;
+	border-top: 1px solid #9e9e9e;
+	margin: 0px 30px 0px 30px;
+}
+
