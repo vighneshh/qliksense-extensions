@@ -1,10 +1,10 @@
 {
 	"name": "ganttChart",
-	"description": "Table visualization template",
-	"icon": "table",
+	"description": "gantt Chart extension using jquery",
+	"icon": "chart",
 	"type": "visualization",
 	"version": "1.0.0",
-	"author": "",
+	"author": "vighnesh gawad",
 	"homepage": "",
 	"keywords": "qlik-sense, visualization",
 	"license": "",
