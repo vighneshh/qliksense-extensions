@@ -1,0 +1,34 @@
+.qv-object-pieChartd3 div.qv-object-content-container {
+	overflow: auto;
+}
+.qv-object-pieChartd3 td,
+.qv-object-pieChartd3 th {
+	border-top: 0px solid #fff;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle;
+	cursor: default;
+	font-size: 12px;
+}
+.qv-object-pieChartd3 td.numeric {
+	text-align: right;
+}
+.qv-object-pieChartd3 button {
+	width: 100%;
+} 
+ .arc text {
+            font: 10px sans-serif;
+            text-anchor: middle;
+        }
+
+.arc path {
+	stroke: #fff;
+}
+
+.title {
+	fill: teal;
+	font-weight: bold;
+}
